@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Victory Chen's Blog]]></title>
+  <link href="http://victorychen.github.io/atom.xml" rel="self"/>
+  <link href="http://victorychen.github.io/"/>
+  <updated>2014-05-31T23:23:29+08:00</updated>
+  <id>http://victorychen.github.io/</id>
+  <author>
+    <name><![CDATA[Victory Chen]]></name>
+    <email><![CDATA[victorychen0112@qq.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
