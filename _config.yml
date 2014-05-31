@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://victorychen.github.io
+title: Victory Chen's Blog
+subtitle: 你不努力,没人给你想要的生活!
+author: Victory Chen
 simple_search: https://www.google.com/search
-description:
+description: 学习博客
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: victorychen0112@qq.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #

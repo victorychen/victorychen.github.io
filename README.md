@@ -1,4 +1,0 @@
-victorychen.github.io
-=====================
-
-Blog
